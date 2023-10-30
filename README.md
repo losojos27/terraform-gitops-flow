@@ -1,3 +1,8 @@
+
+![TFE_TFC Branching](https://github.com/losojos27/terraform-gitops-flow/assets/5779465/b3a31eb7-5efb-442f-b92f-6d6e165e0778)
+
+external link: [https://lucid.app/lucidchart/c86100f5-71c8-4010-aa08-f2bcfb6738c3/edit?viewport_loc=77%2C-1305%2C2387%2C1768%2C0_0&invitationId=inv_cb771d32-1364-49b4-983c-7e8a07f95cac](url)
+
 ## What is GitOps?
 
 GitOps is an operational framework that takes DevOps best practices used for application development such as version control, collaboration, compliance, and CI/CD, and applies them to infrastructure automation.
